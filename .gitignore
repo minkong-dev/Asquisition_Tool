@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+*.env
+
+# Raw source backup (contains sensitive info)
+raw_src/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
